@@ -33,7 +33,9 @@ Action()
 	lr_start_transaction("ContinueShopping");
 	truclient_step("13", "Click on CONTINUE SHOPPING link", "snapshot=Action_13.inf");
 	lr_end_transaction("ContinueShopping",0);
+	lr_start_transaction("FinishShoppingExercise");
 	truclient_step("14", "Click on DEMO link", "snapshot=Action_14.inf");
+	lr_end_transaction("FinishShoppingExercise",0);
 
 	return 0;
 }

@@ -62,7 +62,7 @@ Action=0
 Lib-View=0
 vuser_end=0
 [TransactionsOrder]
-Order="HomePage__*delimiter*__ShopNow__*delimiter*__RoarWireless__*delimiter*__VErifyPrice__*delimiter*__ReturnHome__*delimiter*__ShopLaptops__*delimiter*__AddToCart__*delimiter*__RemoveFromCart__*delimiter*__ContinueShopping"
+Order="HomePage__*delimiter*__ShopNow__*delimiter*__RoarWireless__*delimiter*__VErifyPrice__*delimiter*__ReturnHome__*delimiter*__ShopLaptops__*delimiter*__AddToCart__*delimiter*__RemoveFromCart__*delimiter*__ContinueShopping__*delimiter*__FinishShoppingExercise"
 [StateManagement]
 LastReplayStatus=0
 [ActiveReplay]
@@ -78,3 +78,4 @@ ShopLaptops=
 AddToCart=
 RemoveFromCart=
 ContinueShopping=
+FinishShoppingExercise=

@@ -35,6 +35,7 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
+    <FileEntry Name="AOS_scripts\" Filter="1" />
     <FileEntry Name="results\" Filter="1" />
     <FileEntry Name="resultSnap\" Filter="1" />
   </GeneralFiles>
