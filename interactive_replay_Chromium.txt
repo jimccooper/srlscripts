@@ -1,0 +1,23 @@
+Virtual User Script started at : 2019-04-18 09:48:25
+TruClient Replay (build 1053) for LoadRunner 12.60.0, build 0971. OS: Windows 2016, Browser: Chromium 63.0.3239.132, initialized on 2019/04/18 at 09:48:25 (1555602505.966s)
+Running Vuser...
+Starting iteration 1.
+Notify: Transaction "HomePage" started.
+t=00001595ms: Step 1: Navigate to "http://advantageonlineshopping.com/#/" started    [MsgId: MMSG-205180]
+t=00007320ms: Step 1: Navigate to http://advantageonlineshopping.com/#/ successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 5.7400 Wasted Time: 0.5730).
+t=00007831ms: Step 2: Click on SPEAKERS link started    [MsgId: MMSG-205180]
+t=00008998ms: Step 2: Click on SPEAKERS link successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00009508ms: Step 3: Click on image (1) image started    [MsgId: MMSG-205180]
+t=00010185ms: Step 3: Click on image (1) image successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00010692ms: Step 4: Click on HOME link started    [MsgId: MMSG-205180]
+t=00011476ms: Step 4: Click on HOME link successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00011987ms: Step 5: Click on Shop Now label started    [MsgId: MMSG-205180]
+t=00013468ms: Step 5: Click on Shop Now label successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00013975ms: Step 6: Click on image (2) image started    [MsgId: MMSG-205180]
+t=00014637ms: Step 6: Click on image (2) image successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+t=00015145ms: Step 7: Click on HOME link started    [MsgId: MMSG-205180]
+t=00015817ms: Step 7: Click on HOME link successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
